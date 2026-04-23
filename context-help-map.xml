@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="approachandchecklist" path="approachandchecklist.html"/>
+   <appContext helpID="project_approach" path="TopicTree/project_approach.html"/>
+   <appContext helpID="documentation_review_checklist"
+               path="TopicTree/review_checklist.html"/>
+   <appContext helpID="intro" path="intro.html"/>
+   <appContext helpID="how_to_add_bar_chart"
+               path="TopicTree/how_to_add_bar_chart.html"/>
+   <appContext helpID="release_note" path="TopicTree/release_note.html"/>
+   <appContext helpID="release_note_format_1"
+               path="TopicTree/release_note_format_1.html"/>
+   <appContext helpID="release_note_format_2"
+               path="TopicTree/release_note_format_2.html"/>
+   <appContext helpID="ai_tool_usage" path="TopicTree/ai_tool_usage.html"/>
+   <appContext helpID="uimessage" path="uimessage.html"/>
+   <appContext helpID="ui_messaging_task" path="TopicTree/ui_messaging_task.html"/>
+   <appContext helpID="instructional_video" path="instructional_video.html"/>
+   <appContext helpID="note_upgrade_instructional_video"
+               path="TopicTree/instructional_video.html"/>
+   <appContext helpID="docsascode" path="docsascode.html"/>
+   <appContext helpID="docs_as_code_workflow"
+               path="TopicTree/docs_as_code_workflow.html"/>
+</map>
