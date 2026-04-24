@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="approachandchecklist" path="approachandchecklist.html"/>
-   <appContext helpID="project_approach" path="TopicTree/project_approach.html"/>
-   <appContext helpID="documentation_review_checklist"
-               path="TopicTree/review_checklist.html"/>
    <appContext helpID="intro" path="intro.html"/>
    <appContext helpID="how_to_add_bar_chart"
                path="TopicTree/how_to_add_bar_chart.html"/>
@@ -21,4 +17,7 @@
    <appContext helpID="docsascode" path="docsascode.html"/>
    <appContext helpID="docs_as_code_workflow"
                path="TopicTree/docs_as_code_workflow.html"/>
+   <appContext helpID="approachandchecklist" path="approachandchecklist.html"/>
+   <appContext helpID="documentation_review_checklist"
+               path="TopicTree/review_checklist.html"/>
 </map>
